@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\bin\Debug\BankaSira.exe.config
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\bin\Debug\BankaSira.exe
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\bin\Debug\BankaSira.pdb
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\obj\Debug\BankaSira.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\obj\Debug\BankaSira.Form1.resources
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\obj\Debug\BankaSira.Properties.Resources.resources
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\obj\Debug\BankaSira.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\obj\Debug\BankaSira.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\obj\Debug\BankaSira.exe
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\BankaSira\obj\Debug\BankaSira.pdb

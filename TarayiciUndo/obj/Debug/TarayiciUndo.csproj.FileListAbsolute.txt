@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\bin\Debug\TarayiciUndo.exe.config
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\bin\Debug\TarayiciUndo.exe
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\bin\Debug\TarayiciUndo.pdb
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\obj\Debug\TarayiciUndo.Form1.resources
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\obj\Debug\TarayiciUndo.Properties.Resources.resources
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\obj\Debug\TarayiciUndo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\obj\Debug\TarayiciUndo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\obj\Debug\TarayiciUndo.exe
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\obj\Debug\TarayiciUndo.pdb
+C:\Users\User\Desktop\c# çalışmalar\sunumlast\TarayiciUndo\obj\Debug\TarayiciUndo.csprojAssemblyReference.cache
